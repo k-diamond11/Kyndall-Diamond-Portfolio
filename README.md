@@ -26,10 +26,10 @@ Kyndall Diamond Cybersecurity Portfolio
 
 
 <h1> Awards and Achievements: </h1>
-- <b> Python Ready Achivement from Marymount University, Capital CoLab scholrship, Atlantic East All Acedemic Team, TechSet Participant
+- <b> Python Ready Achivement from Marymount University, Capital CoLab scholarship, Atlantic East All Academic Team, TechSet Participant
 
 <h1> Cybersecurity Experience: </h1>
-- <b> Ernst & Young GPS Cybersecurity Consulting Intern in Tysons, VA Summer 2022. Allegis Group Technology Inter in Hanover, MD Summer 2021
+- <b> Ernst & Young GPS Cybersecurity Consulting Intern in Tysons, VA Summer 2022. Allegis Group Technology Intern in Hanover, MD Summer 2021
 
 <h1> Leadership & Extracurriculars: </h1>
 - <b> Vice President of Sigma Alpha Chapter of Alpha Kappa Alpha Sorority Inc., Senator for Marymount Student Government, Defender for Marymount Womens Lacrosse 
