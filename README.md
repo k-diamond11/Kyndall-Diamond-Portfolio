@@ -7,7 +7,7 @@ Kyndall Diamond Cybersecurity Portfolio
 
 <h2>👩🏽‍💻 Coding Project examples:</h2>
 
-- <b>Created a travel website for a hypotehical travel agency company (Web Development class offered at Marymount)</b>
+- <b>Created a travel website for a Hypothetical travel agency company (Web Development class offered at Marymount)</b>
 
 <img width="750" alt="Screen Shot 2022-11-14 at 2 59 52 PM" src="https://user-images.githubusercontent.com/93686289/201999995-53a97100-5e3d-441a-9d8b-bbcd8ccc0a8e.png">
 
@@ -19,19 +19,19 @@ Kyndall Diamond Cybersecurity Portfolio
 
 
 <h2> Coding Skills</h2>
-- <b> languages:</b> Python, AWS CLoud Computing, HTML, SQL
+- <b> Languages:</b> Python, AWS CLoud Computing, HTML, SQL
 
 <h3> Database tools</h3>
 - <b> Softwares:</b> WireShark, MySQL, Excel, AWS, Kali Linux, Power BI
 
 
-<h1> Awards and Achivements: </h1>
+<h1> Awards and Achievements: </h1>
 - <b> Python Ready Achivement from Marymount University, Capital CoLab scholrship, Atlantic East All Acedemic Team, TechSet Participant
 
 <h1> Cybersecurity Experience: </h1>
 - <b> Ernst & Young GPS Cybersecurity Consulting Intern in Tysons, VA Summer 2022. Allegis Group Technology Inter in Hanover, MD Summer 2021
 
-<h1> Leadership & Extracirriculars: </h1>
+<h1> Leadership & Extracurriculars: </h1>
 - <b> Vice President of Sigma Alpha Chapter of Alpha Kappa Alpha Sorority Inc., Senator for Marymount Student Government, Defender for Marymount Womens Lacrosse 
 
 <h6> 🤳 Connect with me:</h6>
