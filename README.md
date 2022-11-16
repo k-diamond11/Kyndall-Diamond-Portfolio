@@ -38,4 +38,3 @@ Kyndall Diamond Cybersecurity Portfolio
 [gmail]: knd24157@marymount.edu
 [linkedin]: https://linkedin.com/in/kyndall-diamond
 
-npm install repo-to-pdf
