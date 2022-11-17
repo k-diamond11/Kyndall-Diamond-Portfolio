@@ -1,6 +1,6 @@
 # Kyndall-Diamond-Portfolio
 Kyndall Diamond Cybersecurity Portfolio
-<h1>Hi, I'm Kyndall Diamond! <br/><a href="https://github.com/joshmadakor1">Studying Cybersecurity at Marymount University</a></h1>
+<h1>Hi, I'm Kyndall Diamond!Studying Cybersecurity at Marymount University</a></h1>
 
 ![Image 11-8-22 at 2 27 PM](https://user-images.githubusercontent.com/93686289/202000068-ce939714-c5f7-4808-8849-33fb732fab06.jpg)
 
